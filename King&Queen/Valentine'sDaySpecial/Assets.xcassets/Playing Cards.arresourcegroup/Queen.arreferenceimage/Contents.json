@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "0CF47492-1473-4D5F-AA44-4A85CA27BABE_1_105_c.jpeg"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "width" : 14,
+    "unit" : "centimeters"
+  }
+}
